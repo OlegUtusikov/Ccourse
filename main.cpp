@@ -5,6 +5,7 @@
 #include "RandomWay.h"
 
 int main() {
+    //test git
     std::fstream cin;
     std::string metric, algorithm;
     try {
